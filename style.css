@@ -12,6 +12,8 @@ nav{
     align-items: center;
     padding: 0 24px;
     position: fixed;
+    left: 0;
+    top: 0;
     z-index: 1;
     justify-content: space-between;
    }
